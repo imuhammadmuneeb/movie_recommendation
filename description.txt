@@ -1,0 +1,22 @@
+Project title: movie recommendation.
+
+Team mates:he/she 
+L1f17bscs0270 M.Danish
+L1f17bscs0408 Muhammad Muneeb
+L1f17bscs0296 Hasaan Nadeem
+
+Language: Python
+
+Tools:spyder,jupyter
+
+Project description:
+
+As our project name describes its work (movie recommendation). 
+In our project we will make a system by which a user can search a movie by diffrent searching moods,like
+user can search by its name and the movie which he searches is a action movie then our system gives him/her a range of action movies,
+and so on user searches likes because some director he likes then our system gives him/her range of movies of that director,and also if user show their intrest 
+by there searching that he/she likes some actress or actor then system gives recommendation by actor or actress.
+
+By our recommendation system user have ease of selecting the favourite movie which he/she actually wants to watch, so our system reduce the cost of searching again and again 
+gives a handsome solution of automatically recommendations of which he/she wants to watch !
+ 
