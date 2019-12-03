@@ -1,6 +1,6 @@
 Project title: movie recommendation.
 
-Team mates:he/she 
+Team mates:
 L1f17bscs0270 M.Danish
 L1f17bscs0408 Muhammad Muneeb
 L1f17bscs0296 Hasaan Nadeem
